@@ -1,3 +1,5 @@
+[![Build Status](https://secure.travis-ci.org/heyying/demo.png
+)](http://travis-ci.org/heyying/demo)
 # 测试
 ## test_code
 ```
